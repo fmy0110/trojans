@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello world USC"
+echo "hello this world......"
 }
 
 func
